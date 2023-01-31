@@ -1,0 +1,7 @@
+export const OPEN_SEAT_MODAL = 'OPEN_SEAT_MODAL';
+export const OPEN_TRANSACTION_MODAL = 'OPEN_TRANSACTION_MODAL';
+export const OPEN_DETAILS_MODAL = 'OPEN_DETAILS_MODAL';
+export const GET_MOVIES = 'GET_MOVIES';
+export const BOOK_MOVIE = 'BOOK_MOVIE';
+export const SAY_HELLO = 'SAY_HELLO';
+
